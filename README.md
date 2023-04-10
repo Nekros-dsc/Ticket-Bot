@@ -27,7 +27,9 @@ If you want to change the config, open up [config.json](https://discord.gg/zM6ZN
 
 ```js
 {
-  "token": "put-token-here"
+    "TOKEN": "Put-Token-Here",
+    "CLIENTID": "Bot-Id",
+    "OWNER": ["Owner-Id"]
 }
 ```
 
